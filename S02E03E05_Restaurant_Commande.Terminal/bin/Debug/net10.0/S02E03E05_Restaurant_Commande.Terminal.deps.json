@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "S02E03E05_Restaurant_Commande.Terminal/1.0.0": {
+        "dependencies": {
+          "S02E03E05_Restaurant_Commande": "1.0.0"
+        },
+        "runtime": {
+          "S02E03E05_Restaurant_Commande.Terminal.dll": {}
+        }
+      },
+      "S02E03E05_Restaurant_Commande/1.0.0": {
+        "runtime": {
+          "S02E03E05_Restaurant_Commande.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S02E03E05_Restaurant_Commande.Terminal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S02E03E05_Restaurant_Commande/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

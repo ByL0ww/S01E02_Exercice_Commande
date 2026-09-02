@@ -1,0 +1,11 @@
+C:\Cegep\Session03\Programmation Objet II\Exercices\Exercice03\420-W30-SF-v2\semaine-02\S02E03E05_Restaurant_Commande\S02E03E05_Restaurant_Commande\bin\Debug\net10.0\S02E03E05_Restaurant_Commande.deps.json
+C:\Cegep\Session03\Programmation Objet II\Exercices\Exercice03\420-W30-SF-v2\semaine-02\S02E03E05_Restaurant_Commande\S02E03E05_Restaurant_Commande\bin\Debug\net10.0\S02E03E05_Restaurant_Commande.dll
+C:\Cegep\Session03\Programmation Objet II\Exercices\Exercice03\420-W30-SF-v2\semaine-02\S02E03E05_Restaurant_Commande\S02E03E05_Restaurant_Commande\bin\Debug\net10.0\S02E03E05_Restaurant_Commande.pdb
+C:\Cegep\Session03\Programmation Objet II\Exercices\Exercice03\420-W30-SF-v2\semaine-02\S02E03E05_Restaurant_Commande\S02E03E05_Restaurant_Commande\obj\Debug\net10.0\S02E03E05_Restaurant_Commande.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cegep\Session03\Programmation Objet II\Exercices\Exercice03\420-W30-SF-v2\semaine-02\S02E03E05_Restaurant_Commande\S02E03E05_Restaurant_Commande\obj\Debug\net10.0\S02E03E05_Restaurant_Commande.AssemblyInfoInputs.cache
+C:\Cegep\Session03\Programmation Objet II\Exercices\Exercice03\420-W30-SF-v2\semaine-02\S02E03E05_Restaurant_Commande\S02E03E05_Restaurant_Commande\obj\Debug\net10.0\S02E03E05_Restaurant_Commande.AssemblyInfo.cs
+C:\Cegep\Session03\Programmation Objet II\Exercices\Exercice03\420-W30-SF-v2\semaine-02\S02E03E05_Restaurant_Commande\S02E03E05_Restaurant_Commande\obj\Debug\net10.0\S02E03E05_Restaurant_Commande.csproj.CoreCompileInputs.cache
+C:\Cegep\Session03\Programmation Objet II\Exercices\Exercice03\420-W30-SF-v2\semaine-02\S02E03E05_Restaurant_Commande\S02E03E05_Restaurant_Commande\obj\Debug\net10.0\S02E03E05_Restaurant_Commande.dll
+C:\Cegep\Session03\Programmation Objet II\Exercices\Exercice03\420-W30-SF-v2\semaine-02\S02E03E05_Restaurant_Commande\S02E03E05_Restaurant_Commande\obj\Debug\net10.0\refint\S02E03E05_Restaurant_Commande.dll
+C:\Cegep\Session03\Programmation Objet II\Exercices\Exercice03\420-W30-SF-v2\semaine-02\S02E03E05_Restaurant_Commande\S02E03E05_Restaurant_Commande\obj\Debug\net10.0\S02E03E05_Restaurant_Commande.pdb
+C:\Cegep\Session03\Programmation Objet II\Exercices\Exercice03\420-W30-SF-v2\semaine-02\S02E03E05_Restaurant_Commande\S02E03E05_Restaurant_Commande\obj\Debug\net10.0\ref\S02E03E05_Restaurant_Commande.dll
